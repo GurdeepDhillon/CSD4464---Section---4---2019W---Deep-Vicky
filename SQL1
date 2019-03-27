@@ -1,0 +1,2 @@
+select*From cestar.students;
+select*From cestar.schedule;
